@@ -1,0 +1,10 @@
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\bin\Debug\NumberPlace.exe.config
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\bin\Debug\NumberPlace.exe
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\bin\Debug\NumberPlace.pdb
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\obj\Debug\NumberPlace.csprojAssemblyReference.cache
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\obj\Debug\NumberPlace.Properties.Resources.resources
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\obj\Debug\NumberPlace.csproj.GenerateResource.cache
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\obj\Debug\NumberPlace.csproj.CoreCompileInputs.cache
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\obj\Debug\NumberPlace.exe
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\obj\Debug\NumberPlace.pdb
+C:\Users\soshi\source\repos\NumberPlace\NumberPlace\obj\Debug\NumberPlace.Form1.resources
